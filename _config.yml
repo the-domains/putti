@@ -1,0 +1,14 @@
+layout_spectrum: 0.15457849949598312
+typography_spectrum: 0.9494529177900404
+color:
+  brandStrength: 0.5833140437025577
+  lightness: 0.39438279066234827
+  saturation: 0.8077651786152273
+  rhythmicContrast: 0.9224255892913789
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: putti
